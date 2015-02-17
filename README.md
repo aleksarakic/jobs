@@ -1,4 +1,4 @@
 # Jobs 
 
 Platform for posting jobs
-![Home](app/assets/images/slika.png "Slika")
+![Alt text](app/assets/images/slika.png?raw=true "Slika")
